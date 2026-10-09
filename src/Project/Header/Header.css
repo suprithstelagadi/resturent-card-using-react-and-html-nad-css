@@ -1,0 +1,16 @@
+.hcon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ 
+   height: 80px;
+   background-color: black;
+   
+   .head{
+    color: aliceblue;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+   }
+}
